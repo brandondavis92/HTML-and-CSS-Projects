@@ -1,0 +1,16 @@
+table {
+    border: 3px solid rgb(46, 139, 123)
+}
+td:hover {
+    background-color: rgb(90, 205, 142);
+    color: black
+}
+tr, th {
+    background-color: black;
+    color: cornsilk;
+}
+
+tr,td {
+    background-color:rgb(60, 0, 100);
+    color: white;
+}
